@@ -29,5 +29,5 @@
 <h3 align="center">项目效果</h3>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Mr-huangyh/GetEpidemicDataOfWuhan/master/README_IMG/1.png">
+    <img src="README_IMG/1.png">
 </div>
